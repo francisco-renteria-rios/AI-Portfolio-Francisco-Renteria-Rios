@@ -12,12 +12,14 @@ cybersecurity. This portfolio showcase my work through the AI, A.A.S program.
 
 ## Featured Courses & Projects
 
-- Computer Vision and Artificial Intelligence
+- ITAI 1378 Computer Vision and Artificial Intelligence
   Project: Visual Question and Answer Grocery Assistance
 
-### Computer Vision (ITAI 1378)
-- [Object Detection System](link-to-project) - Real-time detection using YOLO
-- [Image Segmentation](link-to-project) - Semantic segmentation with U-Net
+## Project on GitHub
+https://github.com/francisco-renteria-rios/VQA_Assistance.git
+
+## Google Colab link to Jupiter Notebook:
+https://colab.research.google.com/drive/1Qet23wIEAw0ce-2Ca1CiFCQO0SqdeMpl?usp=sharing
 
 ## Contact
 - Email: francisco.renteria.rios@gmail.com
