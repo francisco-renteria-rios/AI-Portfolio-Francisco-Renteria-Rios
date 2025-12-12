@@ -1,37 +1,4 @@
-# Francisco Renteria - Applied AI Portfolio
-
-## About Me
-I am an Applied AI student at Houston City College and I am pursuing the Artificial Intelligent, A.A.
-
-## Technical Skills
-- PYthon, Pytorch
-- Computer Vision
-- Jupyter Notebooks, Google Colab
-
-## Featured Courses and Projects
-
-### ITAI 1378 Computer Vision for Artificial Intelligence
-- Class Project: VQA Assistance
-- Project GitHub link: https://github.com/francisco-renteria-rios/VQA_Assistance.git
-- Google Colab code link: https://colab.research.google.com/drive/1Qet23wIEAw0ce-2Ca1CiFCQO0SqdeMpl?usp=sharing
-
-
-## GitHub Project Link:
-## VQA Assistance 
-https://github.com/francisco-renteria-rios/VQA_Assistance.git
-
-## VQA_Grocery_Assistant_App.ipynb from Google Colab
-https://colab.research.google.com/drive/1Qet23wIEAw0ce-2Ca1CiFCQO0SqdeMpl?usp=sharing
-
-## VizWiz Data set Link
-https://vizwiz.org/tasks-and-datasets/
-
-## Huggingface
-https://huggingface.co/
-
-## Dataset Handling
-Dataset: VizWiz
-The dataset VizWiz is a public dataset that can be access through Hugging Face or from the VizWiz website.
+# Project Documentation
 
 ## Visual Question Answering System project - ITAI 1378 Computer Vision and AI By Francisco Renteria Rios
 
