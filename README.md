@@ -16,8 +16,8 @@ cybersecurity. This portfolio showcase my work through the AI, A.A.S program.
 
 ## Featured Courses & Projects
 
-### ITAI 1378 Computer Vision and Artificial Intelligence
-### Project: Visual Question and Answer Grocery Assistance
+- ITAI 1378 Computer Vision and Artificial Intelligence
+- Project: Visual Question and Answer Grocery Assistance
 
 ## GitHub Project Link:
 ## VQA Assistance 
