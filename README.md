@@ -16,20 +16,20 @@ cybersecurity. This portfolio showcase my work through the AI, A.A.S program.
 
 ## Featured Courses & Projects
 
-## ITAI 1378 Computer Vision and Artificial Intelligence
-## Project: Visual Question and Answer Grocery Assistance
+### ITAI 1378 Computer Vision and Artificial Intelligence
+### Project: Visual Question and Answer Grocery Assistance
 
 ## GitHub Project Link:
 ## VQA Assistance 
 https://github.com/francisco-renteria-rios/VQA_Assistance.git
 
-## VQA_Grocery_Assistant_App.ipynb from Google Colab
+### VQA_Grocery_Assistant_App.ipynb from Google Colab
 https://colab.research.google.com/drive/1Qet23wIEAw0ce-2Ca1CiFCQO0SqdeMpl?usp=sharing
 
-## VizWiz Dataset
+### VizWiz Dataset
 https://vizwiz.org/tasks-and-datasets/
 
-## Huggingface
+### Huggingface
 https://huggingface.co/
 
 ## Dataset Handling
